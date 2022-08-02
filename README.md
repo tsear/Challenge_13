@@ -19,6 +19,7 @@ Next - build the Neural Net.
 
 Lastly - building alterantive models & comparing accuracy
 (I will rather list the changes made to each of the respective models rather than redundantly describe the process again.)
+
 Neural Net alt. 1 -
 - Reduced the hidden layers to only a single layer while upping the nodes by 12%.
 - Changed the hidden layer activation function to sigmoid.
